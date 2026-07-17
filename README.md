@@ -4,6 +4,11 @@
 ## 📷 Application Demo
 
 ![Dashboard Demo](screenshots/home.jpg)
+![Dashboard Demo](screenshots/1.jpg)
+![Dashboard Demo](screenshots/2.jpg)
+![Dashboard Demo](screenshots/3.jpg)
+![Dashboard Demo](screenshots/4.jpg)
+
 
 ## 🏗️ System Architecture
 
