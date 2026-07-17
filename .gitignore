@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model
+models_saved/
+*.pt
+*.safetensors
+*.bin
+
+# Dataset
+data/raw/
+data/processed/
