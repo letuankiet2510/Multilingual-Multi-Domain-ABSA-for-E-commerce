@@ -3,7 +3,7 @@
 ## Overview
 ## 📷 Application Demo
 
-![Dashboard Demo](screenshots/home.png)
+![Dashboard Demo](screenshots/home.jpg)
 
 ## 🏗️ System Architecture
 
