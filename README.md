@@ -267,7 +267,7 @@ can be downloaded separately.
 
 ## Author
 
-Hoang Linh
+Le Tuan Kiet
 
 Data Science & Artificial Intelligence
 
